@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TailorITTeste.Domain/bin/Debug
+/TailorITTeste.Domain/obj/Debug
+/TailorITTeste.Repository/obj/Debug
+/TailorITTeste.Web/bin
+/TailorITTeste.Web/obj/Debug
+/TailorITTeste.Repository/bin/Debug
